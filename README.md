@@ -73,8 +73,8 @@ Key findings from the project include:
 Overall, the project demonstrated that low-level Spotify audio features can capture numerical similarity between songs, but do not always align with human perception of musical similarity.
 
 ## Contributors
-**Alyssa Perry**  
+- **Alyssa Perry**  
 AI/ML Intern @ The Aerospace Corporation | CS Student @ Chapman | [LinkedIn](https://linkedin.com/in/alyssamperry)
 
-**Brooke England**  
+- **Brooke England**  
 Data Science Student @ Chapman | [LinkedIn](https://www.linkedin.com/in/brooke-england-998584265/)
